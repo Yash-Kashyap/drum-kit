@@ -18,4 +18,4 @@
 - Run the index.html file by copying the file path and pasting it in your browser
 - And Enjoy
 
-#### Try it here : 
+#### Try it here : https://yash-kashyap.github.io/drum-kit/
